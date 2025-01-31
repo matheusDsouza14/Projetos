@@ -1,0 +1,10 @@
+O:\OneDrive\Cofre Pessoal\Projetos Pessoais\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+O:\OneDrive\Cofre Pessoal\Projetos Pessoais\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+O:\OneDrive\Cofre Pessoal\Projetos Pessoais\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+O:\OneDrive\Cofre Pessoal\Projetos Pessoais\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+O:\OneDrive\Cofre Pessoal\Projetos Pessoais\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+O:\OneDrive\Cofre Pessoal\Projetos Pessoais\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+O:\OneDrive\Cofre Pessoal\Projetos Pessoais\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+O:\OneDrive\Cofre Pessoal\Projetos Pessoais\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+O:\OneDrive\Cofre Pessoal\Projetos Pessoais\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+O:\OneDrive\Cofre Pessoal\Projetos Pessoais\Calculadora\Calculadora\obj\Debug\Calculadora.pdb

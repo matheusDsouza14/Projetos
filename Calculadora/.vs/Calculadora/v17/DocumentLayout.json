@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "O:\\OneDrive\\Cofre Pessoal\\Projetos Pessoais\\Calculadora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D65E8B3F-2865-40AE-9DBA-6C397E9A0542}|Calculadora\\Calculadora.csproj|o:\\onedrive\\cofre pessoal\\projetos pessoais\\calculadora\\calculadora\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D65E8B3F-2865-40AE-9DBA-6C397E9A0542}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D65E8B3F-2865-40AE-9DBA-6C397E9A0542}|Calculadora\\Calculadora.csproj|o:\\onedrive\\cofre pessoal\\projetos pessoais\\calculadora\\calculadora\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D65E8B3F-2865-40AE-9DBA-6C397E9A0542}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D65E8B3F-2865-40AE-9DBA-6C397E9A0542}|Calculadora\\Calculadora.csproj|o:\\onedrive\\cofre pessoal\\projetos pessoais\\calculadora\\calculadora\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D65E8B3F-2865-40AE-9DBA-6C397E9A0542}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "O:\\OneDrive\\Cofre Pessoal\\Projetos Pessoais\\Calculadora\\Calculadora\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Calculadora\\Form1.Designer.cs",
+              "ToolTip": "O:\\OneDrive\\Cofre Pessoal\\Projetos Pessoais\\Calculadora\\Calculadora\\Form1.Designer.cs",
+              "RelativeToolTip": "Calculadora\\Form1.Designer.cs",
+              "ViewState": "AQIAACEBAAAAAAAAAAAawC0BAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T22:30:13.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmCalculadora.cs",
+              "DocumentMoniker": "O:\\OneDrive\\Cofre Pessoal\\Projetos Pessoais\\Calculadora\\Calculadora\\FrmCalculadora.cs",
+              "RelativeDocumentMoniker": "Calculadora\\FrmCalculadora.cs",
+              "ToolTip": "O:\\OneDrive\\Cofre Pessoal\\Projetos Pessoais\\Calculadora\\Calculadora\\FrmCalculadora.cs",
+              "RelativeToolTip": "Calculadora\\FrmCalculadora.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAASwGkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T21:52:21.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmCalculadora.cs [Design]",
+              "DocumentMoniker": "O:\\OneDrive\\Cofre Pessoal\\Projetos Pessoais\\Calculadora\\Calculadora\\FrmCalculadora.cs",
+              "RelativeDocumentMoniker": "Calculadora\\FrmCalculadora.cs",
+              "ToolTip": "O:\\OneDrive\\Cofre Pessoal\\Projetos Pessoais\\Calculadora\\Calculadora\\FrmCalculadora.cs [Design]",
+              "RelativeToolTip": "Calculadora\\FrmCalculadora.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T21:33:53.695Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
